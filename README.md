@@ -15,7 +15,9 @@ midkr build && cd build;
 cmake .. && make
 
 # Install
-Copy Restart-Halt-vita.vpk to ux0:/data on your ways, then open Vitashell, find and install ux0:/data/Restart-Halt-vita.vpk
+Copy Restart-Halt-vita.vpk to ux0:/data on your ways,
+
+then open Vitashell, find and install ux0:/data/Restart-Halt-vita.vpk
 
 # How to Use
 Press X or O to Reboot PSV.
